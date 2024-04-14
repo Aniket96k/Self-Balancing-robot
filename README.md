@@ -1,2 +1,2 @@
-# These are some of the projetcs I did on arduino
+# These are some of the projetcs I did on STM32
 
